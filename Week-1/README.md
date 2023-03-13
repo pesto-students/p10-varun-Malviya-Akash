@@ -5,7 +5,7 @@ When you enter a URL in your browser, the browser begins by sending a request to
 
 ## Screenshots
 
-![App Screenshot](https://www.researchgate.net/profile/Damien_Cassou/publication/233904658/figure/fig1/AS:393584877555715@1470849355598/An-HTTP-request-and-response-between-a-web-browser-and-a-web-server.png)
+![App Screenshot](https://static.javatpoint.com/blog/images/web-servers.png)
 
 Once the browser receives the HTML code, it uses a parser to convert it into a Document Object Model (DOM) tree. This tree represents the structure of the web page, with each HTML tag represented as a node in the tree.
 
